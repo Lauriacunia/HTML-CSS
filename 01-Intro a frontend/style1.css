@@ -6,13 +6,14 @@ h1 {
 }
 
 h2 {
-    color: rgb(231, 100, 126);
+    color:#ada397;
     font-family: 'Caveat', Courier, monospace;
 }
 
 body {
     
     background-color: #B84B60;
+    text-align: center;
 }
 p {
     color: azure;
