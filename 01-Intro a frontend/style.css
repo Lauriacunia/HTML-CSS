@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+h1 {
+    color: black;
+    font-family: 'Red Rose', cursive;
+}
+
+h2 {
+    color: rgb(231, 100, 126);
+    font-family: 'Caveat', Courier, monospace;
+}
+
+body {
+    
+    background-color: #B84B60;
+}
+p {
+    color: azure;
+    
+}
+a {
+    color: rgb(158, 168, 18);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:visited{
+    color: aqua;
+}
+
+.amarillo {
+    color: darkorange;
+}
