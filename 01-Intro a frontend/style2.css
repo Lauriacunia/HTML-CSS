@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1 {
+    color: black;
+    font-family:'Roboto';
+}
+
+h2 {
+    color:#ada397;
+    font-family: 'Caveat', Courier, monospace;
+}
+
+body {
+    
+    background-color: #B84B60;
+}
+p {
+    color: azure;
+    
+}
+a {
+    color: rgb(158, 168, 18);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ol{
+    color:#ffcccc;
+}
