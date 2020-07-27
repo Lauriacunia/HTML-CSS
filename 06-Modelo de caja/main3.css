@@ -1,0 +1,45 @@
+
+body {
+    text-align: center; 
+}
+
+.bloque{
+    text-align: center; 
+    background-color: rgb(142, 231, 197);
+    height: auto;
+    padding: 200px;
+    
+}
+.tarjeta-principal{
+    text-align: center; 
+    width: 500px;
+    height: auto;
+    background-color: darkgrey;
+    display: inline-block; /* Comportate 
+    como un elemento en linea */
+   
+
+}
+.tarjeta  {
+    text-align: center; 
+    background-color: rgb(255, 255, 255);   
+    padding: 5px; /* Almohadita alrrededor*/
+    width: 300px;
+    height: 200px;
+    display: inline-block; /* Comportate 
+    como un elemento en linea */
+   
+       
+}
+
+.franja-horizontal {
+    width: 300px;
+    height: 66px;
+}
+
+.franja-vertical {
+    width: 95px;
+    height: 200px;
+    display: inline-block; /* Comportate 
+    como un elemento en linea */
+}
