@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento&display=swap');
+body {
+    font-family: "Quattrocento", "Helvetica Neue", Helvetica, sans-serif;
+    line-height: normal;
+    text-align: center; 
+}
+.bloque{
+    text-align: center; 
+    background-color: rgb(142, 231, 197);
+    height: auto;
+    padding: 200px;
+    
+}
+.tarjeta-principal{
+    text-align: center; 
+    background-color: rgb(252, 252, 252);
+    width: 310px;
+    height: auto;
+    display: inline-block; /* Comportate 
+    como un elemento en linea */
+   
+
+}
+.tarjeta  {
+    text-align: center; 
+    background-color: rgb(255, 255, 255);   
+    padding: 5px; /* Almohadita alrrededor*/
+    width: 150px;
+    height: auto;
+  
+    display: inline-block; /* Comportate 
+     como un elemento en linea */
+       
+}
+
+
