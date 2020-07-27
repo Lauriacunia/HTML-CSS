@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento&display=swap');
+body {
+    font-family: "Quattrocento", "Helvetica Neue", Helvetica, sans-serif;
+    line-height: normal;
+}
+.bloque{
+    text-align: center; 
+    background-color: rgb(234, 235, 236);
+}
+
+.tarjeta  {
+    background-color: rgb(255, 255, 255);   
+    text-align: left;
+    
+    padding: 20px; /* Almohadita alrrededor*/
+    margin: 10px; 
+    width: 310px;
+    height: 290px;
+
+   
+    box-sizing: border-box; /*La tarjeta no modifica
+     su tamaño - incluye adentro el borde y el padding
+     -No se lo adiciona a su tamaño*/
+    display: inline-block; /* Comportate 
+    como un elemento en linea */
+    
+}
+/*Las imagenes tienen su propio tamaño
+y su relacion de aspecto*/
+.imagen {
+    width: 50px;
+    height: 50px;
+
+}
+p {
+    font-size: small;
+}
+
+.boton {
+    text-align: center;
+    background-color: blue;
+    width: 110px;
+    height: auto;
+    display: inline-block;
+}
+
