@@ -1,0 +1,31 @@
+
+.bloque{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(198, 240, 14);
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.tarjeta  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: azure;   
+    border: 2px solid gray;
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;   
+    
+}
+/*Las imagenes tienen su propio tamaño
+y su relacion de aspecto*/
+.imagen {
+    width: 150px;
+    height: 150px;
+
+}
+
