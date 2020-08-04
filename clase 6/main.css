@@ -1,29 +1,29 @@
-
-body {
-    background-color: cadetblue;
+.bloque{
+    text-align: center; 
+    background-color: crimson;
 }
 
-.contenedor{
-    text-align: center;
-  
-}
-
-.seccion-principal  {
+.tarjeta  {
     background-color: azure;   
     border: 2px solid gray;
-    box-sizing: border-box;
     width: 200px;
     height: 200px;
-    display: inline-block;
+    padding: 10px; /* Almohadita alrrededor*/
+    margin: 10px; 
+
     text-align: center;
-    padding: 10px;
-    margin: 10px;
-
+    box-sizing: border-box; /*La tarjeta no modifica
+     su tamaño - incluye adentro el borde y el padding
+     -No se lo adiciona a su tamaño*/
+    display: inline-block; /* Comportate 
+    como un elemento en linea */
+    
 }
-
+/*Las imagenes tienen su propio tamaño
+y su relacion de aspecto*/
 .imagen {
-    width: 150px;
-    height: auto;
+    width: 130px;
+    height: 130px;
 
 }
 
